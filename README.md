@@ -24,3 +24,6 @@ While building this project, I got hands-on experience with:
   Conditional rendering
   
   Structuring a small React project from scratch
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f87413d0-8afb-4198-8047-8391749d1af4" />
